@@ -1,0 +1,1 @@
+# pseudo-pascal-triangle
